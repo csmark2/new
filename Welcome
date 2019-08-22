@@ -1,0 +1,4 @@
+name = input("Enter your name: ")
+year = input("Enter your age: ")
+actual_year = 100 - (int(year))
+print("Hi! Your name is " + name +". and you will be 100 after " + str(int(actual_year)) +" years .")
